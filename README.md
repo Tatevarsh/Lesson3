@@ -1,3 +1,3 @@
 # My first project
 
-# I will this file on github
+# I will do this file on github
